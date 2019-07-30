@@ -1,7 +1,7 @@
 package router
 
 import (
-    "github.com/gogf/gf-empty/app/api/hello"
+    "github.com/zzzhangjian/go_peatio/app/api/hello"
     "github.com/gogf/gf/g"
 )
 

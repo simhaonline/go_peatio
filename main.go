@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "github.com/gogf/gf-empty/boot"
-	_ "github.com/gogf/gf-empty/router"
+	_ "github.com/zzzhangjian/go_peatio/boot"
+	_ "github.com/zzzhangjian/go_peatio/router"
 	"github.com/gogf/gf/g"
 )
 
