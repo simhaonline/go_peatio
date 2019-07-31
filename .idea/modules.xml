@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gf-peatio.iml" filepath="$PROJECT_DIR$/.idea/gf-peatio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gf_peatio.iml" filepath="$PROJECT_DIR$/.idea/gf_peatio.iml" />
     </modules>
   </component>
 </project>
